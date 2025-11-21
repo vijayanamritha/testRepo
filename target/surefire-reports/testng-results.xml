@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-21T13:57:46 CET" name="Surefire suite" finished-at="2025-11-21T13:57:57 CET" duration-ms="10564">
+    <groups>
+    </groups>
+    <test started-at="2025-11-21T13:57:46 CET" name="Surefire test" finished-at="2025-11-21T13:57:57 CET" duration-ms="10564">
+      <class name="sess42.TestngDemo1">
+        <test-method signature="Launchapp()[pri:1, instance:sess42.TestngDemo1@1ed1993a]" started-at="2025-11-21T13:57:46 CET" name="Launchapp" finished-at="2025-11-21T13:57:51 CET" duration-ms="4764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchapp -->
+        <test-method signature="logo()[pri:2, instance:sess42.TestngDemo1@1ed1993a]" started-at="2025-11-21T13:57:51 CET" name="logo" finished-at="2025-11-21T13:57:56 CET" duration-ms="5115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logo -->
+        <test-method signature="login()[pri:3, instance:sess42.TestngDemo1@1ed1993a]" started-at="2025-11-21T13:57:56 CET" name="login" finished-at="2025-11-21T13:57:56 CET" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="closeapp()[pri:4, instance:sess42.TestngDemo1@1ed1993a]" started-at="2025-11-21T13:57:56 CET" name="closeapp" finished-at="2025-11-21T13:57:57 CET" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- sess42.TestngDemo1 -->
+      <class name="sess42.FirstTestCase">
+        <test-method signature="openapp()[pri:-1, instance:sess42.FirstTestCase@1f0f1111]" started-at="2025-11-21T13:57:46 CET" name="openapp" finished-at="2025-11-21T13:57:46 CET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="login()[pri:0, instance:sess42.FirstTestCase@1f0f1111]" started-at="2025-11-21T13:57:46 CET" name="login" finished-at="2025-11-21T13:57:46 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:1, instance:sess42.FirstTestCase@1f0f1111]" started-at="2025-11-21T13:57:46 CET" name="logout" finished-at="2025-11-21T13:57:46 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- sess42.FirstTestCase -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
